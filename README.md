@@ -1,6 +1,6 @@
 # Ride Engineering Competition 2026 – **Joop Adventures: Jungle Escape**
 
-![Ride Model](https://github.com/Josiah-Mechy/Ride-Engineering-Competition-2026/blob/844a6995ff4ffa0b3e09254b6550e4c981eaf107/Ride%20Engineering%20Competition%20Day%20Picture.jpg)
+![Ride Model](https://raw.githubusercontent.com/Josiah-Mechy/Ride-Engineering-Competition-2026/main/Ride%20Engineering%20Competition%20Day%20Picture.jpg)
 
 *A fully engineered tabletop roller coaster designed for the 2026 Ride Engineering Competition (REC) by the Liberty University Theme Park Engineering Club.*
 
@@ -13,7 +13,9 @@
 As the **Design Team Lead** and **Project Manager**, I directed the mechanical design process, coordinated project milestones, and led the engineering validation of the ride. My responsibilities included the majority of the CAD development, engineering calculations, finite element analysis, and technical documentation required to bring the project from concept to competition.
 
 ---
-![Video](https://github.com/Josiah-Mechy/Ride-Engineering-Competition-2026/blob/50ea8b6e211ba083dfcc96e03f059a84e919f073/Video.mp4)
+
+### 🎥 [Watch the Competition Video](https://github.com/Josiah-Mechy/Ride-Engineering-Competition-2026/blob/main/Video.mp4)
+
 ---
 
 # Competition Requirements
