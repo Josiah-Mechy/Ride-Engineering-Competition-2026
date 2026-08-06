@@ -48,11 +48,11 @@ As the **Design Team Lead** and **Project Manager**, I directed the mechanical d
 
 * Led the overall mechanical design of the attraction
 * Designed the complete ride layout in SOLIDWORKS
-* Designed the coaster vehicle and lap bar restraint system
-* Designed the chain lift hill assembly
-* Designed the structural support system
+* Designed the lap bar restraint system
+* Designed the track including the chain lift hill assembly, helix, magnetic braking, supports, and scenery
 * Managed CAD integration across all subsystems
 * Led design reviews and manufacturing readiness
+* Calculated a majority of calculations in MATLAB and assisted with additional calculations in Excel
 
 ### Engineering Analysis
 
