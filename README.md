@@ -1,6 +1,6 @@
 # Ride Engineering Competition 2026 – **Joop Adventures: Jungle Escape**
 
-![Ride Model](images/hero.jpg)
+![Ride Model](https://raw.githubusercontent.com/Josiah-Mechy/Ride-Engineering-Competition-2026/main/Complete%20SolidWorks%20Track%20Assembly.png)
 
 *A fully engineered tabletop roller coaster designed for the 2026 Ride Engineering Competition (REC) by the Liberty University Theme Park Engineering Club.*
 
@@ -148,6 +148,18 @@ This repository contains the complete mechanical engineering package developed t
 
 - **[TEA@LU Ride Engineering Competition Final Design Review.pptx](https://github.com/Josiah-Mechy/Ride-Engineering-Competition-2026/blob/main/TEA%40LU%20Ride%20Engineering%20Competition%20Final%20Design%20Review.pptx)**  
   Final Design Review presentation summarizing the engineering design process, structural validation, manufacturing, testing, competition readiness, and final results.
+
+- **[REC 2026 ASTM Adaptation Document.pdf](https://github.com/Josiah-Mechy/Ride-Engineering-Competition-2026/blob/main/REC%202026%20ASTM%20Adaptation%20Document.pdf)**  
+  Documentation detailing how the ride's design was adapted to meet applicable ASTM standards for the competition.
+
+- **[REC 2026 Prompt.pdf](https://github.com/Josiah-Mechy/Ride-Engineering-Competition-2026/blob/main/REC%202026%20Prompt.pdf)**  
+  The official competition prompt outlining the design challenge and requirements for the 2026 Ride Engineering Competition.
+
+- **[TPE@LU ASTM F2291 Compliance.pdf](https://github.com/Josiah-Mechy/Ride-Engineering-Competition-2026/blob/main/TPE%40LU%20ASTM%20F2291%20Compliance.pdf)**  
+  Compliance documentation verifying the ride's design against ASTM F2291 standards for amusement rides and devices.
+
+- **[Ride Engineering Competition 2026 Rule Book.pdf](https://github.com/Josiah-Mechy/Ride-Engineering-Competition-2026/blob/main/Ride%20Engineering%20Competition%202026%20Rule%20Book.pdf)**  
+  Official rule book governing competition requirements, judging criteria, and design constraints.
 
 ---
 
