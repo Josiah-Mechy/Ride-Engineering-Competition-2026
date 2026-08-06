@@ -2,65 +2,57 @@
 
 ![Ride Model](images/hero.jpg)
 
-*A fully engineered scale roller coaster designed for the 2026 Ride Engineering Competition by the Liberty University Theme Park Engineering Club.*
+*A fully engineered tabletop roller coaster designed for the 2026 Ride Engineering Competition (REC) by the Liberty University Theme Park Engineering Club.*
 
 ---
 
 # Overview
 
-**Joop Adventures: Jungle Escape** is a fully functional tabletop roller coaster designed for the 2026 Ride Engineering Competition (REC). The project required designing a portable amusement ride that met strict engineering constraints while demonstrating realistic ride dynamics, structural integrity, rider safety, manufacturability, and reliability.
+**Joop Adventures: Jungle Escape** is a competition-scale roller coaster that was designed, analyzed, manufactured, and validated for the 2026 Ride Engineering Competition. The project required developing a portable amusement attraction while meeting strict engineering constraints for rider safety, structural integrity, manufacturability, reliability, and operational performance.
 
-As **Design Team Lead** and **Project Manager**, I directed the mechanical design process, coordinated project milestones, and led the engineering analysis required to validate the ride. The project combined mechanical design, structural analysis, motion simulation, controls integration, and manufacturing into a single competition-ready attraction.
+As the **Design Team Lead** and **Project Manager**, I directed the mechanical design process, coordinated project milestones, and led the engineering validation of the ride. My responsibilities included the majority of the CAD development, engineering calculations, finite element analysis, and technical documentation required to bring the project from concept to competition.
 
 ---
 
 # Competition Requirements
 
-* Portable ride with prescribed dimensional constraints
-* Operate continuously during competition
+* Portable modular attraction
+* Continuous operation during competition
 * Safe passenger restraint system
-* Realistic ride experience
+* Structural integrity verification
 * Complete engineering documentation
-* Structural validation
-* Cost analysis
-* Risk assessment
-* Team presentation to industry judges
+* Manufacturing within budget
+* Professional presentation to industry judges
 
 ---
 
 # Ride Features
 
 * Chain lift hill
-* Helical descent
+* Custom roller coaster vehicle
+* 3D printed PLA track system
+* Tapered helical descent
 * 45° banked turn
-* Magnetic braking system
-* Arduino-based ride control system
+* Magnetic braking section
+* Arduino-based controls
 * Break beam sensors
 * PLC/HMI integration
-* 3D printed PLA track system
 * Modular support structure
 * Portable frame for transportation
-* Custom coaster vehicle
-* Serviceable mechanical assemblies
 
 ---
 
 # My Contributions
 
-As **Design Team Lead** and **Project Manager**, I was responsible for the majority of the engineering development of the ride.
-
 ### Mechanical Design
 
-* Led overall mechanical design of the attraction
+* Led the overall mechanical design of the attraction
 * Designed the complete ride layout in SOLIDWORKS
-* Designed track geometry and support structure
-* Designed lift hill assembly
-* Designed coaster vehicle
-* Designed restraint system
-* Managed CAD integration between team members
-* Oversaw design reviews and manufacturing readiness
-
----
+* Designed the coaster vehicle and lap bar restraint system
+* Designed the chain lift hill assembly
+* Designed the structural support system
+* Managed CAD integration across all subsystems
+* Led design reviews and manufacturing readiness
 
 ### Engineering Analysis
 
@@ -80,13 +72,13 @@ Performed extensive engineering calculations and simulations including:
 
 * ANSYS finite element analysis
 * Support column stress analysis
-* Flexure calculations
+* Flexure analysis
 * Buckling analysis
-* Factor of Safety calculations
-* Tubing strength analysis
-* Lifetime analysis
 * Fatigue analysis
-* Tipping stability analysis
+* Lifetime analysis
+* Factor of Safety calculations
+* Tipping analysis
+* Tubing structural verification
 
 #### Mechanical Systems
 
@@ -94,29 +86,26 @@ Performed extensive engineering calculations and simulations including:
 * Chain lift Factor of Safety
 * Sprocket loading analysis
 * Motor torque calculations
-* Motor power requirements
+* Motor power calculations
 * Magnetic braking force analysis
 * Lap bar material selection
 * Lap restraint fatigue analysis
 
 #### Safety Engineering
 
-* Rider restraint requirements
+* Rider restraint verification
 * Station fencing analysis
-* Safety factor verification
+* Safety factor validation
 * Structural redundancy review
-
----
 
 ### Project Management
 
-* Led a team of 11 engineering students
-* Managed project schedule and milestones
-* Coordinated subsystem integration
-* Led design reviews
+* Led an 11-member engineering team
+* Coordinated project schedule and milestones
+* Managed subsystem integration
 * Oversaw manufacturing progress
-* Coordinated documentation deliverables
-* Managed competition preparation
+* Organized design reviews
+* Prepared engineering documentation for competition
 
 ---
 
@@ -128,86 +117,60 @@ Performed extensive engineering calculations and simulations including:
 * Microsoft Excel
 * Arduino IDE
 * PLC Programming
-* 3D Printing (Bambu Studio)
+* Bambu Studio
 
 ---
 
-# Team Contributions
+# Repository Contents
 
-This project was completed collaboratively by the Liberty University Theme Park Engineering Club.
+This repository contains the complete mechanical engineering package developed throughout the competition season, including:
 
-Major responsibilities included:
+### CAD & Design
 
-* Mechanical Design
-* Structural Fabrication
-* Controls Programming
-* Electronics Integration
-* Manufacturing
-* Documentation
-* Testing & Validation
-* Competition Presentation
+* Complete SOLIDWORKS coaster vehicle assembly with lap bars (`Car Assembly v5.0 with Lap Bars.zip`)
+* Complete track assembly rendering (`Complete SolidWorks Track Assembly.png`)
 
----
+### Engineering Analysis
 
-# Engineering Documentation
+* MATLAB ride dynamics model (`Track_Data_V27.mlx`)
+* ANSYS structural test results (`ANSYS Test Results - Small and Large Tubes.xlsx`)
+* Ride dynamics graphs and engineering calculations (`REC Graphs.xlsx`)
 
-Repository includes:
+### Documentation
 
-* SOLIDWORKS Parts
-* SOLIDWORKS Assemblies
-* Manufacturing Drawings
-* MATLAB Simulations
-* ANSYS Analysis Files
-* Engineering Calculations
-* Test Data
-* Risk Assessment
-* Cost Analysis
-* Competition Presentation
-* Bill of Materials
-* Design Review Documents
-
----
-
-# Gallery
-
-*Add photographs of:*
-
-* Final ride
-* CAD renderings
-* Manufacturing
-* Testing
-* Competition
-* ANSYS simulations
-* MATLAB plots
+* Final Design Review presentation (`TEA@LU Ride Engineering Competition Final Design Review.pptx`)
+* Engineering calculations
+* Structural analysis
+* Ride dynamics validation
+* Safety documentation
+* Design iterations
 
 ---
 
 # Lessons Learned
 
-This project strengthened my experience in:
+This project significantly strengthened my experience in:
 
-* Engineering project leadership
 * Mechanical system design
+* Engineering project leadership
 * Finite Element Analysis (FEA)
+* MATLAB engineering simulation
+* Structural mechanics
 * Dynamic systems analysis
 * Ride safety engineering
 * Design for manufacturability
 * Engineering documentation
 * Cross-disciplinary teamwork
-* Technical presentations
-* Validation and testing
 
 ---
 
-# Future Improvements
+# Electrical & Controls
 
-* Closed-loop motor control
-* Improved autonomous operation
-* Enhanced magnetic braking
-* Optimized structural weight
-* Higher throughput station design
-* Improved ride reliability
-* Additional sensor integration
+This repository focuses on the **mechanical design and engineering analysis** of the project.
+
+For the electrical system, controls architecture, Arduino programming, PLC implementation, and sensor integration, visit the team's controls repository:
+
+**https://github.com/TrialsVol2/2025-2026-Rollercoaster-SRCS**
 
 ---
 
@@ -215,8 +178,6 @@ This project strengthened my experience in:
 
 **Liberty University Theme Park Engineering Club**
 
-**2025–2026 Competition Team**
+**Ride Engineering Competition 2026**
 
-Design Team Lead & Project Manager: **Josiah Farinacci**
-
-Special thanks to every team member whose work contributed to the successful design, manufacturing, testing, and competition of *Joop Adventures: Jungle Escape*.
+**Design Team Lead & Project Manager:** Josiah Farinacci
